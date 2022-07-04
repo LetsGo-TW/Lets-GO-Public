@@ -1,6 +1,6 @@
 # Lets-GO-Public
 
-## [Como instalar a extensão no chrome web]([url aqui](https://www.youtube.com/watch?v=4OOhMWpmyxw))
+ [##Como instalar a extensão no chrome web](https://www.youtube.com/watch?v=4OOhMWpmyxw)
 
 Instruções de uso e configuração: https://youtu.be/YlE-QAOrsy8
 
