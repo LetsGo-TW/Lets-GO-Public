@@ -1,6 +1,6 @@
 # Lets-GO-Public
 
- [![**Como instalar a extensão no chrome web**]https://www.youtube.com/s/desktop/1422277c/img/favicon.ico]https://youtu.be/4OOhMWpmyxw]
+ [![**Como instalar a extensão no chrome web**](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)](https://youtu.be/4OOhMWpmyxw)]
 
 Instruções de uso e configuração: https://youtu.be/YlE-QAOrsy8
 
