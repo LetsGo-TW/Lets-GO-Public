@@ -8,4 +8,4 @@
 
 [**Como instalar a extensão no kiwibroser Android**](https://www.youtube.com/watch?v=8wAj0Ea396Q) [![](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)](https://www.youtube.com/watch?v=8wAj0Ea396Q)
 
-[**Leai-me - Let's Go - Assistent**](https://bit.ly/Leia_LetsGo_Assistent) [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pdf_icon.png/22px-Pdf_icon.png)](https://bit.ly/Leia_LetsGo_Assistent)
+[**Leia-me - Let's Go - Assistent**](https://bit.ly/Leia_LetsGo_Assistent) [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pdf_icon.png/22px-Pdf_icon.png)](https://bit.ly/Leia_LetsGo_Assistent)
