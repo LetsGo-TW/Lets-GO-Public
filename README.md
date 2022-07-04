@@ -1,6 +1,8 @@
 # Lets-GO-Public
 
- [**Como instalar a extensão no chrome web**](https://youtu.be/4OOhMWpmyxw) [![](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)](https://youtu.be/4OOhMWpmyxw)
+[**Como instalar a extensão no chrome web**](https://youtu.be/4OOhMWpmyxw) [![](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)](https://youtu.be/4OOhMWpmyxw)
+
+[**Instruções de uso e configurações do Let's GO!**]([https://youtu.be/4OOhMWpmyxw](https://youtu.be/YlE-QAOrsy8)) [![](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)]([https://youtu.be/4OOhMWpmyxw](https://youtu.be/YlE-QAOrsy8))
 
 Instruções de uso e configuração: https://youtu.be/YlE-QAOrsy8
 
