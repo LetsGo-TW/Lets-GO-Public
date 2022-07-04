@@ -11,4 +11,4 @@
 ![](https://github.com/LetsGo-TW/Lets-GO-Public/blob/f4f24ac74ac9286c9068f615ad5485dd5621bbdb/LetsGO_Bot_TribalWars.pdf)
 
 
-[![](https://bit.ly/Leia_LetsGo_Assistent)]
+<iframe src="https://drive.google.com/file/d/1PfPFrVPhOyN-iJncwDBxyoYbNW7VyVJM/preview" width="640" height="480" allow="autoplay"></iframe>
