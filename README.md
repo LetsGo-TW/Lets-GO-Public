@@ -9,3 +9,6 @@
 [**Como instalar a extensão no kiwibroser Android**](https://www.youtube.com/watch?v=8wAj0Ea396Q) [![](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)](https://www.youtube.com/watch?v=8wAj0Ea396Q)
 
 ![](https://github.com/LetsGo-TW/Lets-GO-Public/blob/f4f24ac74ac9286c9068f615ad5485dd5621bbdb/LetsGO_Bot_TribalWars.pdf)
+
+
+[![](https://bit.ly/Leia_LetsGo_Assistent)]
