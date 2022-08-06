@@ -5,11 +5,11 @@
     },
     "urlsConnect" : {
         "captcha" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_captcha.js",
+        "all" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_all.js",
         "main" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_main.js",
         "market" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_exchange.js",
         "place" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_place.js",
         "am_farm" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_am_farm.js",
-        "map" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_map.js",
-        "all" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_all.js"
+        "map" : "https://raw.githubusercontent.com/LetsGo-TW/Lets-GO-Public/main/sources/pro1081/letsGO_map.js"
     }
 }
