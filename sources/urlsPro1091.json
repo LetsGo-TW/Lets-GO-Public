@@ -1,0 +1,18 @@
+{
+    "urlsDisconnect" : {
+        "reconnect" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_reconnect.js"
+    },
+    "urlsConnect" : {
+        "main" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_main.js",
+        "train" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/86941ddb90f2ed749209a7734af32758dd145859/sources/pro1091/letsGO_train.js",
+        "market" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_exchange.js",
+        "place" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_place.js",
+        "am_farm" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/5b48cf001cd280aaafec7d73c8ccab0fac9adbfe/sources/pro1091/letsGO_am_farm.js",
+        "smith" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_smith.js",
+        "map" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_map.js",
+        "snob" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_snob.js"
+    },
+    "captcha" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/70a4186c334ba25f58928234be8610b13da5a69b/sources/pro1091/letsGO_captcha.js",
+    "all" : "https://rawcdn.githack.com/LetsGo-TW/Lets-GO-Public/5b48cf001cd280aaafec7d73c8ccab0fac9adbfe/sources/pro1091/letsGO_all.js"
+
+}
