@@ -10,7 +10,7 @@
 
 [**Leia-me - Let's Go - Assistent**](https://bit.ly/Leia_LetsGo_Assistent) [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pdf_icon.png/22px-Pdf_icon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
-[**Whatts - Grupo somente de comunicados dos desenvolvedores sobre atualizações e novas funcionalidades(importante!):**](https://chat.whatsapp.com/DYxSPnnVELzBHCCNwO49Rt) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
+[**Grupo somente de comunicados dos desenvolvedores sobre atualizações e novas funcionalidades(importante!):**](https://chat.whatsapp.com/DYxSPnnVELzBHCCNwO49Rt) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
 [**Grupo de usuários para troca de experiências e ajuda:**](https://chat.whatsapp.com/KJRjPUI7nGjFKRSpsOypFA) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
