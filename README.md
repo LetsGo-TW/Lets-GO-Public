@@ -12,5 +12,6 @@
 
 [**Whatts - Grupo somente de comunicados dos desenvolvedores sobre atualizações e novas funcionalidades(importante!):**](https://chat.whatsapp.com/DYxSPnnVELzBHCCNwO49Rt) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
-[**Whatts - Grupo somente de comunicados dos desenvolvedores sobre atualizações e novas funcionalidades(importante!):**]
-https://chat.whatsapp.com/DYxSPnnVELzBHCCNwO49Rt
+[**Grupo de usuários para troca de experiências e ajuda:**](https://chat.whatsapp.com/KJRjPUI7nGjFKRSpsOypFA) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
+
+
