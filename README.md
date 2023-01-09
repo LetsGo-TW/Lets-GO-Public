@@ -14,4 +14,5 @@
 
 [**Grupo de usuários para troca de experiências e ajuda:**](https://chat.whatsapp.com/KJRjPUI7nGjFKRSpsOypFA) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
+[**Contato WhattsApp**](https://wa.me/5511916302834) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
