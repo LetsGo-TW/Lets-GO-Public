@@ -12,7 +12,7 @@
 
 [**APP para fixar janelas em primeiro plano**](https://www.savardsoftware.com/turbotop/) [![](https://www.savardsoftware.com/favicon.ico)](https://www.savardsoftware.com/turbotop/)
 
-[**Área de trabalho remota do Google Chrome**](https://remotedesktop.google.com/) [![](https://ssl.gstatic.com/chromoting/chromoting_logo_512.png)](https://remotedesktop.google.com/)
+[**Área de trabalho remota do Google Chrome**](https://remotedesktop.google.com/) [![](https://ssl.gstatic.com/chromoting/chromoting_logo_512.png(48x48))](https://remotedesktop.google.com/)
 
 [**Grupo somente de comunicados dos desenvolvedores sobre atualizações e novas funcionalidades(importante!):**](https://chat.whatsapp.com/DYxSPnnVELzBHCCNwO49Rt) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
