@@ -20,7 +20,8 @@
 
 [**Contato WhattsApp**](https://wa.me/5511916302834) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
-![image](https://user-images.githubusercontent.com/106397250/212472785-0f03fb70-ec9a-4bc5-adb9-abf623a7d44b.png)
+![image](https://user-images.githubusercontent.com/106397250/212487598-ebb9021d-6b6b-467b-9673-52a05f694144.png)
+
 
 
 
