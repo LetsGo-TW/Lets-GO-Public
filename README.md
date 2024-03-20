@@ -12,7 +12,9 @@
 
 [**APP para fixar janelas em primeiro plano**](https://www.savardsoftware.com/turbotop/) [![](https://www.savardsoftware.com/favicon.ico)](https://www.savardsoftware.com/turbotop/)
 
-[**Área de trabalho remota do Google Chrome**](https://remotedesktop.google.com/) [![48x48](https://ssl.gstatic.com/chromoting/chromoting_logo_512.png)](https://remotedesktop.google.com/)
+[**APP para notificações para celular**](https://ntfy.sh/) [![48](https://ntfy.sh/_next/static/media/logo.077f6a13.svg)](https://ntfy.sh/)
+
+[**Área de trabalho remota do Google Chrome**](https://remotedesktop.google.com/) [![48](https://ssl.gstatic.com/chromoting/chromoting_logo_512.png)](https://remotedesktop.google.com/)
 
 [**Grupo somente de comunicados dos desenvolvedores sobre atualizações e novas funcionalidades(importante!):**](https://chat.whatsapp.com/DYxSPnnVELzBHCCNwO49Rt) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
