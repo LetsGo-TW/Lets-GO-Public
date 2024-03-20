@@ -10,7 +10,7 @@
 
 [**Leia-me - Let's Go - Assistent**](https://bit.ly/Leia_LetsGo_Assistent) [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pdf_icon.png/22px-Pdf_icon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
-[**APP para fixar janelas em primeiro plano**](https://www.savardsoftware.com/turbotop/) [![](https://www.savardsoftware.com/favicon.ico)](https://www.savardsoftware.com/turbotop/)
+[**APP para fixar janelas em primeiro plano**](https://www.savardsoftware.com/turbotop/) [<img src="https://www.savardsoftware.com/favicon.ico" width="32">](https://www.savardsoftware.com/turbotop/)
 
 [**APP para notificações para celular**](https://ntfy.sh/) [<img src="https://ntfy.sh/_next/static/media/logo.077f6a13.svg" width="32">](https://ntfy.sh/)
 
