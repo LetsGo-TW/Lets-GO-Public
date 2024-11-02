@@ -22,6 +22,9 @@
 
 [**Contato WhattsApp**](https://wa.me/5511916302834) [![](https://web.whatsapp.com/img/favicon/1x/favicon.png)](https://bit.ly/Leia_LetsGo_Assistent)
 
+[**AnyDesk**](https://anydesk.com/pt/downloads/windows) [<img src="" width="32">](https://anydesk.com/pt/downloads/windows)
+
+
 
 
 
