@@ -1,6 +1,6 @@
 # Let's GO! ®
 
-[**Como instalar a extensão no chrome web**](https://www.youtube.com/watch?v=V0xJviEKyHs&list=PLGiquI5HBBjKt_9tjuWsNQNqUAKDiKcUf) [![](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)](https://www.youtube.com/watch?v=V0xJviEKyHs&list=PLGiquI5HBBjKt_9tjuWsNQNqUAKDiKcUf)
+[**Como instalar a extensão no chrome web**](https://www.dailymotion.com/playlist/x7sl1z) [![](https://icons8.com/icon/fb4ttr5hHYaV/external-dailymotion-a-video-sharing-technology-platform-available-worldwide-logo-bold-tal-revivo)](https://www.dailymotion.com/playlist/x7sl1z)
 
 [**Instruções de uso e configurações do Let's GO!®**](https://youtu.be/YlE-QAOrsy8) [![](https://www.youtube.com/s/desktop/1422277c/img/favicon.ico)](https://youtu.be/YlE-QAOrsy8)
 
